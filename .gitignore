@@ -8,3 +8,10 @@ venv/
 outputs/
 *.mp4
 
+venv/
+__pycache__/
+*.pyc
+*.mp4
+outputs/
+*.log
+
