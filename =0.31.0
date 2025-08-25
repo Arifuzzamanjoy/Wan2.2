@@ -1,0 +1,57 @@
+Collecting diffusers
+  Using cached diffusers-0.35.1-py3-none-any.whl (4.1 MB)
+Collecting huggingface-hub>=0.34.0
+  Downloading huggingface_hub-0.34.4-py3-none-any.whl (561 kB)
+     ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 561.5/561.5 KB 9.8 MB/s eta 0:00:00
+Collecting requests
+  Downloading requests-2.32.5-py3-none-any.whl (64 kB)
+     ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 64.7/64.7 KB 14.1 MB/s eta 0:00:00
+Collecting Pillow
+  Downloading pillow-11.3.0-cp310-cp310-manylinux_2_27_x86_64.manylinux_2_28_x86_64.whl (6.6 MB)
+     ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 6.6/6.6 MB 87.3 MB/s eta 0:00:00
+Collecting safetensors>=0.3.1
+  Downloading safetensors-0.6.2-cp38-abi3-manylinux_2_17_x86_64.manylinux2014_x86_64.whl (485 kB)
+     ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 485.8/485.8 KB 82.7 MB/s eta 0:00:00
+Collecting filelock
+  Downloading filelock-3.19.1-py3-none-any.whl (15 kB)
+Collecting importlib_metadata
+  Downloading importlib_metadata-8.7.0-py3-none-any.whl (27 kB)
+Collecting regex!=2019.12.17
+  Downloading regex-2025.7.34-cp310-cp310-manylinux2014_x86_64.manylinux_2_17_x86_64.manylinux_2_28_x86_64.whl (789 kB)
+     ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 789.8/789.8 KB 99.2 MB/s eta 0:00:00
+Collecting numpy
+  Downloading numpy-2.2.6-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl (16.8 MB)
+     ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 16.8/16.8 MB 62.2 MB/s eta 0:00:00
+Collecting fsspec>=2023.5.0
+  Downloading fsspec-2025.7.0-py3-none-any.whl (199 kB)
+     ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 199.6/199.6 KB 45.4 MB/s eta 0:00:00
+Collecting typing-extensions>=3.7.4.3
+  Downloading typing_extensions-4.15.0-py3-none-any.whl (44 kB)
+     ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 44.6/44.6 KB 12.8 MB/s eta 0:00:00
+Collecting packaging>=20.9
+  Downloading packaging-25.0-py3-none-any.whl (66 kB)
+     ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 66.5/66.5 KB 15.7 MB/s eta 0:00:00
+Collecting tqdm>=4.42.1
+  Using cached tqdm-4.67.1-py3-none-any.whl (78 kB)
+Collecting pyyaml>=5.1
+  Downloading PyYAML-6.0.2-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl (751 kB)
+     ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 751.2/751.2 KB 89.3 MB/s eta 0:00:00
+Collecting hf-xet<2.0.0,>=1.1.3
+  Downloading hf_xet-1.1.8-cp37-abi3-manylinux_2_17_x86_64.manylinux2014_x86_64.whl (3.2 MB)
+     ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 3.2/3.2 MB 128.7 MB/s eta 0:00:00
+Collecting zipp>=3.20
+  Downloading zipp-3.23.0-py3-none-any.whl (10 kB)
+Collecting idna<4,>=2.5
+  Downloading idna-3.10-py3-none-any.whl (70 kB)
+     ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 70.4/70.4 KB 15.8 MB/s eta 0:00:00
+Collecting urllib3<3,>=1.21.1
+  Downloading urllib3-2.5.0-py3-none-any.whl (129 kB)
+     ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 129.8/129.8 KB 26.5 MB/s eta 0:00:00
+Collecting charset_normalizer<4,>=2
+  Downloading charset_normalizer-3.4.3-cp310-cp310-manylinux2014_x86_64.manylinux_2_17_x86_64.manylinux_2_28_x86_64.whl (152 kB)
+     ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 152.4/152.4 KB 39.5 MB/s eta 0:00:00
+Collecting certifi>=2017.4.17
+  Downloading certifi-2025.8.3-py3-none-any.whl (161 kB)
+     ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 161.2/161.2 KB 36.0 MB/s eta 0:00:00
+Installing collected packages: zipp, urllib3, typing-extensions, tqdm, safetensors, regex, pyyaml, Pillow, packaging, numpy, idna, hf-xet, fsspec, filelock, charset_normalizer, certifi, requests, importlib_metadata, huggingface-hub, diffusers
+Successfully installed Pillow-11.3.0 certifi-2025.8.3 charset_normalizer-3.4.3 diffusers-0.35.1 filelock-3.19.1 fsspec-2025.7.0 hf-xet-1.1.8 huggingface-hub-0.34.4 idna-3.10 importlib_metadata-8.7.0 numpy-2.2.6 packaging-25.0 pyyaml-6.0.2 regex-2025.7.34 requests-2.32.5 safetensors-0.6.2 tqdm-4.67.1 typing-extensions-4.15.0 urllib3-2.5.0 zipp-3.23.0

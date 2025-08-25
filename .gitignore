@@ -1,2 +1,10 @@
 __pycache__/
-.DS_Store
+.DS_Store__pycache__/
+venv/
+*.pyc
+*.pth
+*.egg-info/
+.cache/
+outputs/
+*.mp4
+
